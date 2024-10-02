@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repo has been **deprecated** and its features have been merged into the base [Courses API](https://github.com/DevelopIntelligenceBoulder/courses-api-express-server).
+
 # Courses2 API Express Server
 This is the full backend for the Courses API exercises and supports GET, POST, PUT and DELETE endpoints for courses.
 
