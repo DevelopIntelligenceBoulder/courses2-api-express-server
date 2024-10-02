@@ -1,10 +1,10 @@
 > [!WARNING]  
-> This repo has been **deprecated** and its features have been merged into the base [Courses API](https://github.com/DevelopIntelligenceBoulder/courses-api-express-server).
+> # This repo has been **deprecated** and its features have been merged into the base [Courses API](https://github.com/DevelopIntelligenceBoulder/courses-api-express-server). Please use that repo instead.
 
-# Courses2 API Express Server
+## Courses2 API Express Server
 This is the full backend for the Courses API exercises and supports GET, POST, PUT and DELETE endpoints for courses.
 
-## Setup this server locally
+### Setup this server locally
 This section discusses how to get the Courses API server up and running locally
 
 - Verify Node.js is installed by running the following command.
